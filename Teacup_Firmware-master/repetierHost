@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/alex/Arduino/Teacup_Firmware-master
+mono RepetierHost.exe -home /home/alex/Arduino/Teacup_Firmware-master&
